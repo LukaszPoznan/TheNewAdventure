@@ -1,1 +1,1 @@
-This is a text-based RPG written in C#.
+# A text-based RPG with UI written in C#.
