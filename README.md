@@ -1,2 +1,2 @@
 A text-based RPG with UI written in C#.
-Please see the releases tab for executable.
+Please see the release tab for executable.
